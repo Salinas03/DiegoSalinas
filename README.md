@@ -2,11 +2,7 @@
 <h1 align="center">Hola 👋, Soy Diego Salinas Vazquez</h1>
 
 
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-🌱 I’m currently learning **WEB Development Full-Stack**
+Soy una persona apasionada por la tecnología, con especial interés en el área de análisis de datos. Sin embargo, también tengo conocimientos y experiencia en desarrollo Full Stack, lo que me permite adaptarme a distintos entornos y necesidades tecnológicas.
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 
