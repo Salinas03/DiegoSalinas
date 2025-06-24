@@ -31,6 +31,7 @@ Soy una persona apasionada por la tecnología, con especial interés en el área
 <hr width="60%" >
 <h3 align="left">Contacto:</h3>
 <p align="left">
+<a href="mailto:diego.salinas@example.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" /> diego.salinas@example.com</a><br>
 <a href="www.linkedin.com/in/diego-salinas-vazquez-2785b6295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/diegosv_03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" /></a>
 </p>
